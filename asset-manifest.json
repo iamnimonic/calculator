@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Calculator/static/css/main.c414b4a0.chunk.css",
-    "main.js": "/Calculator/static/js/main.d9a938ba.chunk.js",
-    "main.js.map": "/Calculator/static/js/main.d9a938ba.chunk.js.map",
-    "runtime-main.js": "/Calculator/static/js/runtime-main.0c86b4be.js",
-    "runtime-main.js.map": "/Calculator/static/js/runtime-main.0c86b4be.js.map",
-    "static/js/2.068c4a90.chunk.js": "/Calculator/static/js/2.068c4a90.chunk.js",
-    "static/js/2.068c4a90.chunk.js.map": "/Calculator/static/js/2.068c4a90.chunk.js.map",
-    "static/js/3.c4f0b0ab.chunk.js": "/Calculator/static/js/3.c4f0b0ab.chunk.js",
-    "static/js/3.c4f0b0ab.chunk.js.map": "/Calculator/static/js/3.c4f0b0ab.chunk.js.map",
-    "index.html": "/Calculator/index.html",
-    "static/css/main.c414b4a0.chunk.css.map": "/Calculator/static/css/main.c414b4a0.chunk.css.map",
-    "static/js/2.068c4a90.chunk.js.LICENSE.txt": "/Calculator/static/js/2.068c4a90.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Calculator/static/media/lcd phone Regular.978baff9.ttf"
+    "main.css": "/calculator/static/css/main.da4f7506.chunk.css",
+    "main.js": "/calculator/static/js/main.d9a938ba.chunk.js",
+    "main.js.map": "/calculator/static/js/main.d9a938ba.chunk.js.map",
+    "runtime-main.js": "/calculator/static/js/runtime-main.f5a9aafb.js",
+    "runtime-main.js.map": "/calculator/static/js/runtime-main.f5a9aafb.js.map",
+    "static/js/2.068c4a90.chunk.js": "/calculator/static/js/2.068c4a90.chunk.js",
+    "static/js/2.068c4a90.chunk.js.map": "/calculator/static/js/2.068c4a90.chunk.js.map",
+    "static/js/3.c4f0b0ab.chunk.js": "/calculator/static/js/3.c4f0b0ab.chunk.js",
+    "static/js/3.c4f0b0ab.chunk.js.map": "/calculator/static/js/3.c4f0b0ab.chunk.js.map",
+    "index.html": "/calculator/index.html",
+    "static/css/main.da4f7506.chunk.css.map": "/calculator/static/css/main.da4f7506.chunk.css.map",
+    "static/js/2.068c4a90.chunk.js.LICENSE.txt": "/calculator/static/js/2.068c4a90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/calculator/static/media/lcd phone Regular.978baff9.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c86b4be.js",
+    "static/js/runtime-main.f5a9aafb.js",
     "static/js/2.068c4a90.chunk.js",
-    "static/css/main.c414b4a0.chunk.css",
+    "static/css/main.da4f7506.chunk.css",
     "static/js/main.d9a938ba.chunk.js"
   ]
 }
